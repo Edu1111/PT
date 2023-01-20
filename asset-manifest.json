@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PT/build/static/css/main.9d158a79.css",
+    "main.js": "/PT/build/static/js/main.5e066937.js",
+    "static/media/ME.jpg": "/PT/build/static/media/ME.38d93e04f31c8aba8c29.jpg",
+    "static/media/Metuu.jpg": "/PT/build/static/media/Metuu.09db39dcbcd9d9b5dda2.jpg",
+    "static/media/Hoja_vida.pdf": "/PT/build/static/media/Hoja_vida.779cc25372a0dabbec84.pdf",
+    "static/media/crudd.jpg": "/PT/build/static/media/crudd.24f91202cf6c503d68e5.jpg",
+    "static/media/absolute.png": "/PT/build/static/media/absolute.e2b48a58a03a5a011b70.png",
+    "static/media/Protected.jpg": "/PT/build/static/media/Protected.a1f14a23888de1d656a0.jpg",
+    "index.html": "/PT/build/index.html",
+    "main.9d158a79.css.map": "/PT/build/static/css/main.9d158a79.css.map",
+    "main.5e066937.js.map": "/PT/build/static/js/main.5e066937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d158a79.css",
+    "static/js/main.5e066937.js"
+  ]
+}
